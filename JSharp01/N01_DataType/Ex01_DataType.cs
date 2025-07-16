@@ -25,5 +25,6 @@ public class Ex01_DataType
         Console.WriteLine(isCSharp);
         Console.WriteLine(!isCSharp);
         
+        Console.WriteLine("String 4 test 4 GitHub");
     }
 }
