@@ -1,0 +1,9 @@
+# 빌드 폴더 무시
+bin/
+obj/
+
+# DLL, 디버그 정보 무시
+*.dll
+*.pdb
+*.cache
+*.sourcelink.json
